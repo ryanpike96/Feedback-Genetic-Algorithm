@@ -21,7 +21,7 @@ in a 30-dimensional feature space. Although the
 problem formulation was motivated by mammography this iterative approach can be applied to
 most classification algorithms with its strength
 stemming from the unnecessity of hand-crafted
-hyperparameters.
+hyperparameters. The following figure shows the pipeline of the solution.
 <p align="center">
 <img src="https://github.com/ryanpike96/img/blob/master/flowdiagram.jpg" width="200" height="400">
 </p>
