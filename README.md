@@ -22,3 +22,5 @@ problem formulation was motivated by mammography this iterative approach can be 
 most classification algorithms with its strength
 stemming from the unnecessity of hand-crafted
 hyperparameters.
+
+![Pipeline](ryanpike96.github.com/repository/img/feedback.png)
