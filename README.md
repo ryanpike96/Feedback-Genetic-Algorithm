@@ -23,4 +23,4 @@ most classification algorithms with its strength
 stemming from the unnecessity of hand-crafted
 hyperparameters.
 
-![Pipeline](https://github.com/ryanpike96/img/flowdiagram.eps)
+![Pipeline](https://github.com/ryanpike96/img/blob/master/flowdiagram.eps)
