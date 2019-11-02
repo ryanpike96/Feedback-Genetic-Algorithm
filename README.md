@@ -20,5 +20,4 @@ Database (WBCD) which contains 569 samples
 in a 30-dimensional feature space. Although the
 problem formulation was motivated by mammography this iterative approach can be applied to
 most classification algorithms with its strength
-stemming from the unnecessity of hand-crafted
-hyperparameters. The following figure shows the pipeline of the solution.
+stemming from the unnecessity of hand-crafted hyperparameters.
